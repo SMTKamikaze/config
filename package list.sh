@@ -34,4 +34,4 @@ else
 fi
 
 
-yay -S tofi wlogout firefox-esr-bin
+yay -S tofi wlogout firefox-esr-bin tela-icon-theme-purple-git visual-studio-code-bin
