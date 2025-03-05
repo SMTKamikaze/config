@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo pacman -S sway swaybg swayidle swaylock wlroots waybar kitty tuned tuned-ppd thunar thunar-archive-plugin ark copyq swaync grim xorg-xhost tumbler brightnessctl polkit-gnome xdg-desktop-portal-wlr nwg-look git slurp timeshift zsh
+sudo pacman -S sway swaybg swayidle swaylock wlroots waybar kitty thunar-volman tuned tuned-ppd thunar thunar-archive-plugin ark copyq swaync grim xorg-xhost tumbler brightnessctl polkit-gnome xdg-desktop-portal-wlr nwg-look git slurp timeshift zsh
 
 sudo localectl set-locale LANG=en_US.UTF-8
 
